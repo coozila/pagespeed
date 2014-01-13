@@ -4,7 +4,8 @@ Page speed app instalation and configuration for Nginx
 
 Git Nginx Pagespeed App
 
-    cd /etc/nginx/
+    mkdir /etc/nginx/apps
+    cd /etc/nginx/apps
     git clone https://github.com/Coozila/pagespeed
     
 Update Nginx Pagespeed App
