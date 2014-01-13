@@ -33,5 +33,7 @@ Add Pagespeed app to your server block
     ###########################################################################
     include apps/pagespeed/ngx_pagespeed.conf;
 
+Restart Nginx
 
+    service nginx restart
 ...
