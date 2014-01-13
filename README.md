@@ -1,6 +1,5 @@
 apps
 ======================
-
 Page speed app instalation and configuration for Nginx
 
 Git Nginx Pagespeed App
