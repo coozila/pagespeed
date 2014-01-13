@@ -28,17 +28,10 @@ Add Pagespeed app to your server block
     server_name test.yursite.com;
 
 
-    ## Access and error logs.
-
-
-    access_log /var/log/nginx/test.yoursite.com/test.yoursite.com_access.log;
-    error_log /var/log/nginx/test.yoursite.com/test.yoursite.com_error.log;
-
-
     ###########################################################################
     ## Nginx Pagespeed App 										
     ###########################################################################
     include apps/pagespeed/ngx_pagespeed.conf;
 
 
-etc...
+...
