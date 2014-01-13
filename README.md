@@ -2,7 +2,7 @@ Nginx Pagespeed App
 ======================
 ![](https://developers.google.com/speed/images/banner-carusel-pagespeed.png)
 
-###Page speed app instalation and configuration for Nginx
+###Pagespeed app instalation and configuration for Nginx
 
 Git Nginx Pagespeed App
 
